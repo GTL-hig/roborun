@@ -3,6 +3,10 @@
 This is a simple game that demonstrates
 the use of 2D mode in Unity 3D.
 
+* Unity version: 2018.2.14
+* Repo size: about 100MB
+
+
 # Study materials
 
 Unity3D has a large number of comprehensive tutorials. Use those that you find
