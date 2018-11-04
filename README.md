@@ -25,7 +25,7 @@ websites. Use the URLs from below for convenience:
 
 Instead of downloading all the assets, you can clone this repository. Install Git, and do
 ```
-git clone git remote add origin https://github.com/GTL-hig/roborun.git
+git clone https://github.com/GTL-hig/roborun.git
 ```
 
 The repository is a working game based on the tutorials and assets that are suggested above.
