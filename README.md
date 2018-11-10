@@ -5,6 +5,8 @@ the use of 2D mode in Unity 3D.
 
 * Unity version: 2018.2.14
 * Repo size: about 100MB
+* [Lecture video](https://youtu.be/thJuGSU3Z8Y) part 1
+* Lecture video part 2 (next Thursday)
 
 
 # Study materials
